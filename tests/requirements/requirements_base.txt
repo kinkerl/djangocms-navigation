@@ -6,7 +6,7 @@ flake8
 isort
 lxml
 tox
-https://github.com/django-cms/django-cms/tarball/develop-4#egg=django-cms
+https://github.com/django-cms/django-cms/tarball/4.0.0#egg=django-cms
 https://github.com/divio/djangocms-text-ckeditor/tarball/support/4.0.x#egg=djangocms-text-ckeditor
 https://github.com/django-cms/djangocms-versioning/tarball/1.2.2#egg=djangocms-versioning
 https://github.com/FidelityInternational/djangocms-version-locking/tarball/master#egg=djangocms-version-locking
