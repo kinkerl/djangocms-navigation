@@ -20,6 +20,7 @@ jobs:
         requirements-file: [
             dj22_cms40.txt,
             dj32_cms40.txt,
+            dj40_cms40.txt,
         ]
 
     steps:
